@@ -131,7 +131,7 @@ function greet(language) {
       spanish: 'Bienvenido',
       swedish: 'Valkommen',
       welsh: 'Croeso'
-    }, 
+    }
     
     return greetings[language] || "Welcome";
   }
